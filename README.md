@@ -28,7 +28,7 @@
 <a href="http://185.196.214.91:8080/authenticate">Osuda Vatan</a>
 <hr>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=00FF2B&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=950&height=75&lines=Contact+with+me:" alt="Typing SVG" /></a>
-<a href="https://t.me/Kasimov_06">
+<a href="https://t.me/Kasimov_o6">
   <img src="https://img.shields.io/badge/Telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white" />    
 </a>&nbsp;
 <a href="mailto:shkoga.irbuc@gmail.com">
